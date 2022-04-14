@@ -1,4 +1,4 @@
-Request for personal information deletion. 
+**Request for personal information deletion. **
 
 If you are a user of Jobbox mobile application and you want your personal information to be deleted from out servers, please send us an email to **jobboxkorea@gmail.com** with the following topic and the content:
 
@@ -23,7 +23,7 @@ Please make sure to send us the request from the email you have registered under
 
 
 
-Запрос на удаление личной информации.
+**Запрос на удаление личной информации.**
 
 Если вы являетесь пользователем мобильного приложения Jobbox и хотите, чтобы ваша личная информация была удалена с наших серверов, отправьте нам электронное письмо по адресу **jobboxkorea@gmail.com** со следующей темой и содержанием:
 
